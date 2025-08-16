@@ -33,4 +33,4 @@ This is my own configuration for Hackintosh Intel i5-10210U Commet Lake working 
 - iMessage
 - Face Time
 
-Thanks for support (https://dortania.github.io/OpenCore-Install-Guide/)Dortania OpenCOre Install Guide
+Thanks for support [Dortania OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
